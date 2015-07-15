@@ -1,0 +1,4 @@
+- macの起動・再起動設定方法
+	- システム環境設定 -> 省エネルギー -> スケジュール  から設定可能
+	- automaterは必要なし
+	- < http://inforati.jp/apple/mac-tips-techniques/system-hints/how-to-start-up-or-reboot-or-system-halt-your-macos-automatically.html >
